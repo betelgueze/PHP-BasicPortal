@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<hesla><uzivatel ID="1">
+<login>admin</login><heslo>admin</heslo><JeAdmin>1</JeAdmin></uzivatel><uzivatel ID="2">
+<login>zak</login><heslo>zak</heslo><JeAdmin>2</JeAdmin></uzivatel><uzivatel ID="3">
+<login>zam</login><heslo>zam</heslo><JeAdmin>3</JeAdmin></uzivatel><uzivatel ID="4">
+<login>anicka</login><heslo>anka</heslo><JeAdmin>2</JeAdmin></uzivatel></hesla>
